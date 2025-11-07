@@ -51,7 +51,6 @@
 * Project Github : https://github.com/sesac-aeyong/drone_aeyong
 * 발표자료 : 
 
-
 ### Team: 펜타곤 
 <프로젝트 요약> 스마트 미러와 AI가 만난 통합 뷰티 솔루션입니다. 라즈베리파이 5 + Hailo-10H 기반으로 실시간 피부 분석(여드름·유분·건조·주름·피부나이)과 퍼스널컬러 분석을 진행합니다. LLM이 개인 맞춤형 화장품, 연고,메이크업 색상을 추천합니다.
 
@@ -66,3 +65,15 @@
 * Project Github : https://github.com/ptg-5/glow
 * 발표자료 : https://github.com/ptg-5/glow/blob/main/ptg_slide.pdf
 
+### Team: 블라vla
+<프로젝트 요약> 로봇팔 기반 로봇 비서 프로젝트
+* Members
+  | Name | Role |
+  |----|----|
+  | 김태현 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 신웅철 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 이동현 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+  | 염수림 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  | 유정렬 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+* Project Github : https://github.com/Self-Driving-Car-Studio/Lerobot-Self-Driving-Core
+* 발표자료 : 
