@@ -21,17 +21,20 @@
 
 ### 제출현황
 
-### Team: 똥강아지
+### Team: 똥강아지 Baby-Pup
 <프로젝트 요약> 정보 사각지대를 해소하는 자연어 기반 자율주행 의료 지원 로봇 **Medi-Buddy🤖**
 * Members
   | Name | Role |
   |----|----|
-  | 채서린 | Project lead, 프로젝트를 총괄하고 망하면 할복한다. |
-  | 박현욱 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 염한결 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 정지아 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 천현진 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/Che-Serene/Medi-Buddy
+  | 채서린 | **PM/SW**, 저희 사이 좋아요^^ |
+  | 황혜윤 | **SW/TeamLeader**, 소프트웨어 팀을 총괄하고 망하면 하드웨어 뚝배기 |
+  | 천현진 | **HW/TeamLeader**, 하드웨어 팀을 총괄하고 사람도 뚝배기 치면 끝남 |
+  | 박현욱 | **HW**, 프로젝트 끝날 때까지 출국금지 |
+  | 염한결 | **HW**, 500% 이해할 때까지 금연?금?주???? |
+  | 정지아 | **SW**, 잡도리 퀸(인공지능~~과 팀원들~~을 잡도리함) |
+
+
+* Project Github : https://github.com/Baby-Pup/Medi-Buddy
 * 발표자료 : 
   
 ### Team: 뭔가 센스있는 팀명
@@ -58,17 +61,4 @@
   | 윤영진 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
   | 정지훈 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
 * Project Github : https://github.com/sesac-aeyong/drone_aeyong
-* 발표자료 : 
-
-### Team: 블라vla
-<프로젝트 요약> 로봇팔 기반 로봇 비서 프로젝트
-* Members
-  | Name | Role |
-  |----|----|
-  | 김태현 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 신웅철 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 이동현 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 염수림 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 유정렬 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/Self-Driving-Car-Studio/Lerobot-Self-Driving-Core
 * 발표자료 : 
