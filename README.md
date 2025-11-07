@@ -21,6 +21,19 @@
 
 ### 제출현황
 
+### Team: 똥강아지
+<프로젝트 요약> 정보 사각지대를 해소하는 자연어 기반 자율주행 의료 지원 로봇 **Medi-Buddy🤖**
+* Members
+  | Name | Role |
+  |----|----|
+  | 채서린 | Project lead, 프로젝트를 총괄하고 망하면 할복한다. |
+  | 박현욱 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 염한결 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+  | 정지아 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  | 천현진 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+* Project Github : https://github.com/Che-Serene/Medi-Buddy
+* 발표자료 : 
+  
 ### Team: 뭔가 센스있는 팀명
 <프로젝트 요약>
 * Members
