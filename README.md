@@ -29,7 +29,7 @@
   | 성시경 | Project model + Data management, 제품 설계 및 데이터 관리 |
   | 장태규 | Project lead + Architect, 프로젝트 총괄 및 컴포넌트, 상위 디자인 구성. |
   | 최종인 | UI design, 사용자 인터페이스 정의 및 구현 |
-* Project Github: https://github.com/taegyu1500/AIpex
+* Project Github: https://github.com/AIpex-sesac/AIpex
 * 발표자료: 
 
 ### Team: 뭔가 센스있는 팀명
