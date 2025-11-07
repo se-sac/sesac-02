@@ -47,3 +47,15 @@
 * Project Github : https://github.com/goodsense/project_awesome.git
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
+### Team: 애용
+<프로젝트 요약>  드론으로 객체를 인식하고 원하는 사람을 추적해서 따라가는 경찰드론
+* Members
+  | Name | Role |
+  |----|----|
+  | 김대용 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 김민성 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 여정인 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+  | 윤영진 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  | 정지훈 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+* Project Github : https://github.com/sesac-aeyong/drone_aeyong
+* 발표자료 : 
