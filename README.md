@@ -22,6 +22,7 @@
 ### 제출현황
 
 ### Team: AI-PEX(AI-APEX)
+<프로젝트 요약> 자전거 주행 중 Object Detection을 활용하여 주행 보조 정보를 디스플레이로 보여주는 스마트 헬맷 개발
 * Members
   | Name | Role |
   |----|----|
