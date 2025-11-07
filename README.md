@@ -59,3 +59,16 @@
   | 정지훈 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
 * Project Github : https://github.com/sesac-aeyong/drone_aeyong
 * 발표자료 : 
+
+### Team: 블라vla
+<프로젝트 요약> 로봇팔 기반 로봇 비서 프로젝트
+* Members
+  | Name | Role |
+  |----|----|
+  | 김태현 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 신웅철 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 이동현 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+  | 염수림 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  | 유정렬 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+* Project Github : https://github.com/Self-Driving-Car-Studio/Lerobot-Self-Driving-Core
+* 발표자료 : 
