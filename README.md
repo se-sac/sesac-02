@@ -12,7 +12,7 @@
 
     * Team name : Project Name
     * Project 소개
-    * 팀원 및 팀원 역활
+    * 팀원 및 팀원 역할
     * Project Github repository
     * Project 발표자료 업로드
 
