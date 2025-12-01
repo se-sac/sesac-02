@@ -51,17 +51,17 @@
   
 
 ### Team: 애용
-<프로젝트 요약>  드론으로 객체를 인식하고 원하는 사람을 추적해서 따라가는 경찰드론
+<프로젝트 요약> 사람을 인식하고 고유 ID로 구분해 타겟으로 설정된 사람을 추적 비행하는 지능형 자율비행 경찰드론 🚁
 * Members
   | Name | Role |
   |----|----|
-  | 김대용 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 김민성 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 여정인 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 윤영진 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 정지훈 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+  | 김대용 | Project lead, AI developer, Depth 모델 설계 및 구현 |
+  | 김민성 | Embedded system developer, Hailo10H 적용, 시스템 아키텍처 설계 및 구현|
+  | 여정인 | AI developer, ReID 모델 구축, Hailo10H 적용, 드론 제어 로직 구현 |
+  | 윤영진 | AI developer, AI modeling, Hailo10H 적용, 드론 제어 로직 구현 |
+  | 정지훈 | Frontend developer, 사용자 인터페이스를 정의 및 구현 |
 * Project Github : https://github.com/sesac-aeyong/drone_aeyong
-* 발표자료 : 
+* 발표자료 : https://youtu.be/HBBj9FLYmcY?si=OyBjVbVdwbPOTFnM
 
 ### Team: 펜타곤 
 <프로젝트 요약> 스마트 미러와 AI가 만난 통합 뷰티 솔루션입니다. 라즈베리파이 5 + Hailo-10H 기반으로 실시간 피부 분석(여드름·유분·건조·주름·피부나이)과 퍼스널컬러 분석을 진행합니다. LLM이 개인 맞춤형 화장품, 연고,메이크업 색상을 추천합니다.
